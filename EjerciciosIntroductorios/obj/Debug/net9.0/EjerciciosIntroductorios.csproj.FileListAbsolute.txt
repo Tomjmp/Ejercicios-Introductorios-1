@@ -1,0 +1,14 @@
+/Users/joalismaria/MiProyectoCSharp/ACTIVIDAD01/EjerciciosIntroductorios/bin/Debug/net9.0/EjerciciosIntroductorios
+/Users/joalismaria/MiProyectoCSharp/ACTIVIDAD01/EjerciciosIntroductorios/bin/Debug/net9.0/EjerciciosIntroductorios.deps.json
+/Users/joalismaria/MiProyectoCSharp/ACTIVIDAD01/EjerciciosIntroductorios/bin/Debug/net9.0/EjerciciosIntroductorios.runtimeconfig.json
+/Users/joalismaria/MiProyectoCSharp/ACTIVIDAD01/EjerciciosIntroductorios/bin/Debug/net9.0/EjerciciosIntroductorios.dll
+/Users/joalismaria/MiProyectoCSharp/ACTIVIDAD01/EjerciciosIntroductorios/bin/Debug/net9.0/EjerciciosIntroductorios.pdb
+/Users/joalismaria/MiProyectoCSharp/ACTIVIDAD01/EjerciciosIntroductorios/obj/Debug/net9.0/EjerciciosIntroductorios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joalismaria/MiProyectoCSharp/ACTIVIDAD01/EjerciciosIntroductorios/obj/Debug/net9.0/EjerciciosIntroductorios.AssemblyInfoInputs.cache
+/Users/joalismaria/MiProyectoCSharp/ACTIVIDAD01/EjerciciosIntroductorios/obj/Debug/net9.0/EjerciciosIntroductorios.AssemblyInfo.cs
+/Users/joalismaria/MiProyectoCSharp/ACTIVIDAD01/EjerciciosIntroductorios/obj/Debug/net9.0/EjerciciosIntroductorios.csproj.CoreCompileInputs.cache
+/Users/joalismaria/MiProyectoCSharp/ACTIVIDAD01/EjerciciosIntroductorios/obj/Debug/net9.0/EjerciciosIntroductorios.dll
+/Users/joalismaria/MiProyectoCSharp/ACTIVIDAD01/EjerciciosIntroductorios/obj/Debug/net9.0/refint/EjerciciosIntroductorios.dll
+/Users/joalismaria/MiProyectoCSharp/ACTIVIDAD01/EjerciciosIntroductorios/obj/Debug/net9.0/EjerciciosIntroductorios.pdb
+/Users/joalismaria/MiProyectoCSharp/ACTIVIDAD01/EjerciciosIntroductorios/obj/Debug/net9.0/EjerciciosIntroductorios.genruntimeconfig.cache
+/Users/joalismaria/MiProyectoCSharp/ACTIVIDAD01/EjerciciosIntroductorios/obj/Debug/net9.0/ref/EjerciciosIntroductorios.dll
